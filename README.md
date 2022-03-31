@@ -40,12 +40,10 @@
     - [Duflix Project](https://github.com/eduardoc7/duflix)
     - [Pyrifa Project](https://github.com/eduardoc7/pyrifa)
 
-</br>
     
 - 🌱 I’m currently learning: **I update this repository with the things that I'm currently learning**
     - [Studies Notes](https://github.com/eduardoc7/concepts-notes)
-
-</br>
+    - 
 
 - 💬 Ask me about: **C++, Back End, Neuroscience and anything**
 
