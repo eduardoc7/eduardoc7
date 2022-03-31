@@ -11,7 +11,6 @@
         - [Poco Library](https://pocoproject.org/)
         - [Pistache REST framework for C++](https://github.com/pistacheio/pistache)
         
-    </br>
     
     - **Laravel**
         - [MVC Architecture](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
@@ -19,14 +18,12 @@
         - [Database Migration System](https://laravel.com/docs/9.x/migrations)
         - [Unit Tests PHPUnit](https://phpunit.de/)
 
-    </br>
 
     - **Typescript**
         - [ES7+](https://tc39.es/ecma262/)
         - [ESlint](https://eslint.org/)
         - [Unit Tests Jest](https://jestjs.io/)
     
-    </br>
 
 - 👨‍💻 What I have learned: **Practical courses and projects that I had experience**
     - [C++](https://github.com/eduardoc7/learning-cplusplus)
