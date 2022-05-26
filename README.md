@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eduardo Cordeiro</h1>
 <h3 align="center">Computer technician by <a href="https://www.portaldaindustria.com.br/senai/">Senai</a> and software developer with experience in Front End, Back End Web and payment's integration using C++</h3>
+<br>
+<br>
+
+## My last personal project: [Whatsapp BOT that automates sales  🤖](https://github.com/eduardoc7/bubblebot)
 
 ---
 
