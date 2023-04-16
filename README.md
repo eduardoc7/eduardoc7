@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eduardo Cordeiro</h1>
 <h3 align="center">Computer technician by <a href="https://www.portaldaindustria.com.br/senai/">Senai</a> and software developer with experience in FrontEnd, BackEnd Web and embedded systems using C++</h3>
-<br>
 
 ---
 
