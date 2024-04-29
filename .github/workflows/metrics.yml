@@ -55,5 +55,4 @@ jobs:
           plugin_topics_mode: icons
           plugin_topics_sort: stars
           plugin_repositories: yes
-          plugin_repositories_pinned: 2
           plugin_repositories_starred: 3
