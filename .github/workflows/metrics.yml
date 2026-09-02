@@ -56,3 +56,12 @@ jobs:
           plugin_topics_sort: stars
           plugin_repositories: yes
           plugin_repositories_starred: 3
+          # Isometric commit calendar (counts privat
+          # enabled in https://github.com/settings/profile)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          # Notable contributions on known/popular repositories
+          plugin_notable: yes
+          # Recently starred repositories
+          plugin_stars: yes
+          plugin_stars_limit: 6
